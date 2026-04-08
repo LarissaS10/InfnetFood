@@ -2,7 +2,7 @@
 
 App de pedidos e delivery de lanches e refeições desenvolvido em React Native com Expo.
 
-## Pré-requisitos
+## Configuração
 
 Antes de começar, você precisa ter instalado na sua máquina:
 
@@ -16,6 +16,10 @@ Antes de começar, você precisa ter instalado na sua máquina:
 ### Opção 1 — Pelo Snack Expo (mais fácil, sem instalar nada)
 Acesse o link e escaneie o QR Code com o Expo Go:
 🔗 (https://snack.expo.dev/@lari_moreti/infnetfood)
+
+QR code do projeto (para facilitar a vida ;)
+<img width="324" height="322" alt="image" src="https://github.com/user-attachments/assets/38f78193-aafa-4fde-bc86-9066fe441ba4" />
+
 
 ### Opção 2 — Rodando localmente
 
