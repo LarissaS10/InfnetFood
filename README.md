@@ -18,6 +18,8 @@ Acesse o link e escaneie o QR Code com o Expo Go:
 🔗 (https://snack.expo.dev/@lari_moreti/infnetfood)
 
 QR code do projeto (para facilitar a vida ;)
+
+
 <img width="324" height="322" alt="image" src="https://github.com/user-attachments/assets/38f78193-aafa-4fde-bc86-9066fe441ba4" />
 
 
